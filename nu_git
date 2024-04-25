@@ -1,10 +1,9 @@
 # what will the following code print!
 
-d = dict()
-d = [Gary] = 1
-d = [Ray] = 5
-d = [Jason] = 3
-d = [DeeDee] = 8
-d = [Hooray] = 4
-for (a, e) in d.items():
-    print(a, e)
+
+# names = ["Gary", "Ray", "Jason", "DeeDee", "Hooray"]
+# myDict = [(index,item) for index, in enumerate(names)]
+# myDict = dict(myDict)
+
+# for (a, e) in names.items():
+#     print(a, e)
